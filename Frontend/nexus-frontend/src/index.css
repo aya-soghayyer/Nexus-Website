@@ -69,5 +69,7 @@ button:focus-visible {
 
 
 body{
-  
+  background-image: linear-gradient(to bottom , #4ADEDE, #1AA7EC, #1C71C6 , #1E2F97 );
+  background-size: 100%;
+  background-attachment: fixed;
 }
